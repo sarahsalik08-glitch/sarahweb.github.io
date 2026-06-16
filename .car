@@ -65,13 +65,12 @@ website using HTML, CSS, and GitHub Pages.
     
 <div class="hero-content">
 
-  <img src="profile.jpg" alt="Sarah Salik" class="profile-pic">
-
+<img src="profile.jpg"
+     class="profile-pic floating">
   <h1>Sarah Salik</h1>
 
   <p>
-    Technical Support Professional with 2+ years of experience
-    supporting Google and Meta products.
+    Technical Support Professional with 2+ years of experience.
     Aspiring IT Support and Application Support Analyst.
   </p>
 
@@ -96,7 +95,7 @@ website using HTML, CSS, and GitHub Pages.
 
 <p>
 BS Psychology graduate with over two years of experience
-supporting Google and Meta products.
+as Technical Support. 
 
 Experienced in troubleshooting,
 customer support, issue investigation,
