@@ -211,3 +211,12 @@ footer {
     transform: translateY(0px);
   }
 }
+
+.greeting {
+
+  font-size: 1.2rem;
+
+  margin-bottom: 20px;
+
+  font-weight: 600;
+}
